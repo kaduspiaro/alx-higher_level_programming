@@ -1,10 +1,10 @@
 # Hello, World
 Project done during **Full Stack Software Engineering Studies** at **Holberton School**. It aims to learn about variables, basic commands (print) and handle strings with **python.**
 ## Technologies
-..* Shell Scripts are written in Bash 4.3.11(1)
-..* Python Scripts are written with Python 3.4.3
-..* C files are compiled using `gcc 4.8.4`
-..* Tested on Ubuntu 14.04 LTS
+* Shell Scripts are written in Bash 4.3.11(1)
+- Python Scripts are written with Python 3.4.3
++ C files are compiled using `gcc 4.8.4`
+- Tested on Ubuntu 14.04 LTS
 ## Files
 Filename | Description
 --- | ---
